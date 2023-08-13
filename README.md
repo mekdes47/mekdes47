@@ -1,4 +1,4 @@
-- 👋 Hi, I’mekdi 
+- 👋 Hi, I am mekdi 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate with website and application developers
